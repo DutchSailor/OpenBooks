@@ -6,6 +6,8 @@ Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige
 * Het zijn erg nuttige boeken die niet tot nauwelijks 2e hands te koop zijn.
 * Daardoor is de kennis die hierin staat helaas niet meer te gebruiken door Ingenieurs, Architecten en Bouwmeesters.
 
+OpenBooks 
+
 # Huidige collectie
 * E. Gugel's Archtectonische Vormenleer Platen.
 * Prof. J.G. Wattjes Deel 1 Muren en Aangebouwde Schoorsteenen
@@ -14,4 +16,7 @@ Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige
 * Overige boeken van Prof. J.G. Wattjes.
 
 # Overige acties
-* Verbeteren en bijsnijden ingscande afbeeldingen tot een zodanige kwaliteit dat deze gebruikt kan worden voor Reprints. 
+* Verbeteren en bijsnijden ingscande afbeeldingen tot een zodanige kwaliteit dat deze gebruikt kan worden voor reprints. 
+* Integreren in aparte website.
+* Tekst met OCR leesbaar en herkenbaar maken.
+* Zorgen voor vindbaarheid in Google.

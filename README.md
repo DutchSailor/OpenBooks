@@ -7,7 +7,7 @@ Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige
 * Daardoor is de kennis die hierin staat helaas niet meer te gebruiken door Ingenieurs, Architecten en Bouwmeesters. 
 
 # Huidige collectie
-* E. Gugel's Archtectonische Vormenleer Platen.
+* E. Gugel's Architectonische Vormenleer Platen.
 * Prof. J.G. Wattjes Deel 1 Muren en Aangebouwde Schoorsteenen
 
 # Toekomstige collectie

@@ -20,3 +20,5 @@ OpenBooks
 * Integreren in aparte website.
 * Tekst met OCR leesbaar en herkenbaar maken.
 * Zorgen voor vindbaarheid in Google.
+
+![Image](OpeningImage.jpg)

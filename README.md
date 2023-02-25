@@ -13,10 +13,11 @@ Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige
 # Toekomstige collectie
 * Overige boeken van Prof. J.G. Wattjes.
 
-# Overige acties
+# Doelstellingen binnen OpenBooks
 * Verbeteren en bijsnijden ingscande afbeeldingen tot een zodanige kwaliteit dat deze gebruikt kan worden voor reprints. 
 * Integreren in aparte website.
 * Tekst met OCR leesbaar en herkenbaar maken.
 * Zorgen voor vindbaarheid in Google.
+* Alle tekeningen digitaliseren in DXF/SVG
 
 ![Image](OpeningImage.JPG)

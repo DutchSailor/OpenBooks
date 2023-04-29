@@ -1,17 +1,21 @@
-# OpenBooks
-
 # Inleiding
 Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige en architectonische boeken.
-* Deze boeken zijn voor zover te achterhalen vrij van rechten.
+* Deze boeken zijn voor zover te achterhalen vrij van rechten. 
 * Het zijn erg nuttige boeken die niet tot nauwelijks 2e hands te koop zijn.
 * Daardoor is de kennis die hierin staat helaas niet meer te gebruiken door Ingenieurs, Architecten en Bouwmeesters. 
 
+Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeken van Gugel en van Prof. J.G. Wattjes via boekwinkeltjes.nl en dat deze nauwelijks op de markt kwamen.
+
 # Huidige collectie
 * E. Gugel's Architectonische Vormenleer Platen.
-* Prof. J.G. Wattjes Deel 1 Muren en Aangebouwde Schoorsteenen
+* Prof. J.G. Wattjes Deel 2 Vrijstaande schoorsteenen haarden en smitsen.
+* GBV 1950 Gewapend Beton Voorschriften
 
 # Toekomstige collectie
 * Overige boeken van Prof. J.G. Wattjes.
+* Oudere betonnormen.
+* Oude tijdschriften over de bouw.
+* Boeken van reannissance architecten enz.
 
 # Doelstellingen binnen OpenBooks
 * Verbeteren en bijsnijden ingscande afbeeldingen tot een zodanige kwaliteit dat deze gebruikt kan worden voor reprints. 
@@ -20,4 +24,14 @@ Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
 
+#Rechten
+* Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
+
+#Gugel
 ![Image](OpeningImage.JPG)
+
+#Wattjes
+![Image](OpeningImage2.JPG)
+
+#GBV1950
+![Image](OpeningImage3.JPG)

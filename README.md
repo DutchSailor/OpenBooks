@@ -1,10 +1,16 @@
 # Inleiding
+
 Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige en architectonische boeken.
+
+Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeken van E. Gugel en van Prof. J.G. Wattjes via boekwinkeltjes.nl en dat deze nauwelijks tweedehands verkrijgbaar waren.
+
 * Deze boeken zijn voor zover te achterhalen vrij van rechten. 
 * Het zijn erg nuttige boeken die niet tot nauwelijks 2e hands te koop zijn.
 * Daardoor is de kennis die hierin staat helaas niet meer te gebruiken door Ingenieurs, Architecten en Bouwmeesters. 
 
-Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeken van Gugel en van Prof. J.G. Wattjes via boekwinkeltjes.nl en dat deze nauwelijks op de markt kwamen.
+# Rechten
+* Het is soms erg lastig om te achterhalen of er auteursrechten op de boeken zitten.
+* Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
 
 # Huidige collectie
 * E. Gugel's Architectonische Vormenleer Platen.
@@ -23,9 +29,6 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Tekst met OCR leesbaar en herkenbaar maken.
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
-
-# Rechten
-* Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
 
 # Gugel
 ![Image](OpeningImage.JPG)

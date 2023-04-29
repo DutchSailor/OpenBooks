@@ -24,14 +24,14 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
 
-#Rechten
+# Rechten
 * Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
 
-#Gugel
+# Gugel
 ![Image](OpeningImage.JPG)
 
-#Wattjes
+# Wattjes
 ![Image](OpeningImage2.JPG)
 
-#GBV1950
+# GBV1950
 ![Image](OpeningImage3.JPG)

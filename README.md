@@ -15,6 +15,7 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 # Huidige collectie
 * E. Gugel's Architectonische Vormenleer Platen.
 * Prof. J.G. Wattjes Deel 2 Vrijstaande schoorsteenen haarden en smitsen.
+* Prof. J.G. Wattjes Deel 3 Funderingen en Kelders Rioleeringen.
 * GBV 1950 Gewapend Beton Voorschriften
 
 # Toekomstige collectie

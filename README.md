@@ -2,7 +2,7 @@
 
 Deze repository is onderdeel van OpenAEC. Deze repository bevat oude bouwkundige en architectonische boeken.
 
-Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeken van E. Gugel en van Prof. J.G. Wattjes via boekwinkeltjes.nl en dat deze nauwelijks tweedehands verkrijgbaar waren.
+Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeken van [Prof. E.H. Gugel](https://nl.wikipedia.org/wiki/Eugen_Gugel) en van [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) via boekwinkeltjes.nl en dat deze nauwelijks tweedehands verkrijgbaar waren.
 
 * Deze boeken zijn voor zover te achterhalen vrij van rechten. 
 * Het zijn erg nuttige boeken die niet tot nauwelijks 2e hands te koop zijn.
@@ -13,13 +13,14 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
 
 # Huidige collectie
-* E. Gugel's Architectonische Vormenleer Platen.
-* Prof. J.G. Wattjes Deel 2 Vrijstaande schoorsteenen haarden en smitsen.
-* Prof. J.G. Wattjes Deel 3 Funderingen en Kelders Rioleeringen.
+* [Prof. E.H. Gugel](https://nl.wikipedia.org/wiki/Eugen_Gugel) Architectonische Vormenleer Platen.
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen.
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen.
+* [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies. Deze is gedownload van de website: berekeningvanconstructies.be die helaas niet meer bestaat.
 * GBV 1950 Gewapend Beton Voorschriften
 
 # Toekomstige collectie
-* Overige boeken van Prof. J.G. Wattjes.
+* Overige boeken van [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes).
 * Oudere betonnormen.
 * Oude tijdschriften over de bouw.
 * Boeken van reannissance architecten enz.
@@ -31,14 +32,17 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
 
-# Gugel
+# Prof. E.H. Gugel
 ![Image](OpeningImage.JPG)
 
-# Wattjes deel 2
+# Prof. J.G. Wattjes deel 2
 ![Image](OpeningImage2.JPG)
 
-# Wattjes deel 3
+# Prof. J.G. Wattjes deel 3
 ![Image](OpeningImageWattjes3.JPG)
+
+# Prof. D. VandePitte 
+![Image](OpeningImagePitte.JPG)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

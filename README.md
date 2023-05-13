@@ -32,14 +32,17 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
 
-# Gugel
+# Prof. E.H. Gugel
 ![Image](OpeningImage.JPG)
 
-# Wattjes deel 2
+# Prof. J.G. Wattjes deel 2
 ![Image](OpeningImage2.JPG)
 
-# Wattjes deel 3
+# Prof. J.G. Wattjes deel 3
 ![Image](OpeningImageWattjes3.JPG)
+
+# Prof. D. VandePitte 
+![Image](OpeningImagePitte.JPG)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

@@ -42,7 +42,7 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 ![Image](OpeningImageWattjes3.JPG)
 
 # Prof. D. VandePitte 
-![Image](OpeningImagePitte.JPG)
+![Image](OpeningImagePitte.jpg)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

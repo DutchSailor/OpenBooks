@@ -13,10 +13,14 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.
 
 # Huidige collectie
-* [Prof. E.H. Gugel](https://nl.wikipedia.org/wiki/Eugen_Gugel) Architectonische Vormenleer Platen.
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen.
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen.
-* [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies. Deze is gedownload van de website: berekeningvanconstructies.be die helaas niet meer bestaat.
+* [Prof. E.H. Gugel](https://nl.wikipedia.org/wiki/Eugen_Gugel) Architectonische Vormenleer Platen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 4 Ramen Deuren Kozijnen
+* [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
+* [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
+* [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
+(Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
 * GBV 1950 Gewapend Beton Voorschriften
 
 # Toekomstige collectie
@@ -40,6 +44,9 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 
 # Prof. J.G. Wattjes deel 3
 ![Image](OpeningImageWattjes3.JPG)
+
+# Prof. J.G. Wattjes deel 4
+![Image](OpeningImageWattjes4.JPG)
 
 # Prof. D. VandePitte 
 ![Image](OpeningImagePitte.jpg)

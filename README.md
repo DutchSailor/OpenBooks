@@ -52,5 +52,8 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 # Prof. D. VandePitte 
 ![Image](OpeningImagePitte.jpg)
 
+# Bernoulli's Vademecum
+![Image](Bernoulli.jpg)
+
 # GBV1950
 ![Image](OpeningImage3.JPG)

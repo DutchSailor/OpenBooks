@@ -17,6 +17,7 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 4 Ramen Deuren Kozijnen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 5 Binnen en buitenbetimmeringen leidingen
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III

@@ -17,11 +17,11 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 4 Ramen Deuren Kozijnen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 5 Binnen en buitenbetimmeringen leidingen
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
-* (Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
-* [Ingenieur J.G. van Gendt Jr](https://nl.wikipedia.org/wiki/Johan_Godart_van_Gendt_sr) herzien door [Ir. I. Franco](https://www.tudelft.nl/scd/collectie-tentoonstelling/geschiedenis-werktuigbouwkunde/1900-ir-i-franco) Bernoulli's Vademecum uitgave 5e druk, 1902
+(Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
 * GBV 1950 Gewapend Beton Voorschriften
 
 # Toekomstige collectie
@@ -51,9 +51,6 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 
 # Prof. D. VandePitte 
 ![Image](OpeningImagePitte.jpg)
-
-# Bernoulli's Vademecum
-![Image](Bernoulli.jpg)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

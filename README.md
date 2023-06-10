@@ -47,7 +47,7 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 ![Image](OpeningImageWattjes3.JPG)
 
 # Prof. J.G. Wattjes deel 4
-![Image](OpeningImageWattjes4.JPG)
+![Image](OpeningImageWattjes4.jpg)
 
 # Prof. D. VandePitte 
 ![Image](OpeningImagePitte.jpg)

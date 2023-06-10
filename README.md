@@ -54,3 +54,6 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 
 # GBV1950
 ![Image](OpeningImage3.JPG)
+
+# Paneeldeuren
+![Image](OpeningImagePaneeldeur.png)

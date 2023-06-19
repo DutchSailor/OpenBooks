@@ -47,7 +47,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 ![Image](OpeningImage.JPG)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 1 Muren en aangebouwde schoorsteenen
-![Image](OpeningImage1.JPG)
+![Image](OpeningImageWattjes1.JPG)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 2 Vrijstaande schoorsteenen haarden en smitsen
 ![Image](OpeningImage2.JPG)

@@ -8,6 +8,10 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Het zijn erg nuttige boeken die niet tot nauwelijks 2e hands te koop zijn.
 * Daardoor is de kennis die hierin staat helaas niet meer te gebruiken door Ingenieurs, Architecten en Bouwmeesters. 
 
+# Gebruik
+Bekijk de afbeeldingen via Github. Of download de gehele collectie via deze link: https://github.com/DutchSailor/OpenBooks/archive/refs/heads/main.zip
+Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zijn en uitgesneden. Het is nu nog het ruwe scanmateriaal.
+
 # Rechten
 * Het is soms erg lastig om te achterhalen of er auteursrechten op de boeken zitten.
 * Mocht ik mij vergissen inzake de auteursrechten dan verzoek ik u contact op te nemen via maarten@3bm.co.nl. In dat geval zal ik de boeken per ommegaande verwijderen van dit project.

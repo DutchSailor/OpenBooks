@@ -14,15 +14,17 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 
 # Huidige collectie
 * [Prof. E.H. Gugel](https://nl.wikipedia.org/wiki/Eugen_Gugel) Architectonische Vormenleer Platen
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 2 Vrijstaande schoorsteenen haarden en smitsen
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 3 Funderingen en Kelders Rioleeringen
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 4 Ramen Deuren Kozijnen
-* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Deel 5 Binnen en buitenbetimmeringen leidingen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 1 Muren en aangebouwde schoorsteenen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 2 Vrijstaande schoorsteenen haarden en smitsen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 3 Funderingen en Kelders Rioleeringen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 4 Ramen Deuren Kozijnen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 5 Binnen en buitenbetimmeringen leidingen
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
 (Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
 * GBV 1950 Gewapend Beton Voorschriften
+* Paneeldeuren, auteur onbekend.
 
 # Toekomstige collectie
 * Overige boeken van [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes).
@@ -37,19 +39,25 @@ Het is begonnen uit frustratie omdat ik zelf jarenlang gezocht heb naar de boeke
 * Zorgen voor vindbaarheid in Google.
 * Alle tekeningen digitaliseren in DXF/SVG
 
-# Prof. E.H. Gugel
+# Prof. E.H. Gugel Architectonische Vormenleer Platen
 ![Image](OpeningImage.JPG)
 
-# Prof. J.G. Wattjes deel 2
+# Prof. J.G. Wattjes Constructies van Gebouwen Deel 1 Muren en aangebouwde schoorsteenen
+![Image](OpeningImage1.JPG)
+
+# Prof. J.G. Wattjes Constructies van Gebouwen Deel 2 Vrijstaande schoorsteenen haarden en smitsen
 ![Image](OpeningImage2.JPG)
 
-# Prof. J.G. Wattjes deel 3
+# Prof. J.G. Wattjes Constructies van Gebouwen Deel 3 Funderingen en Kelders Rioleeringen
 ![Image](OpeningImageWattjes3.JPG)
 
-# Prof. J.G. Wattjes deel 4
+# Prof. J.G. Wattjes Constructies van Gebouwen Deel 4 Ramen Deuren Kozijnen
 ![Image](OpeningImageWattjes4.jpg)
 
-# Prof. D. VandePitte 
+# Prof. J.G. Wattjes Constructies van Gebouwen Deel 5 Binnen en buitenbetimmeringen leidingen
+![Image](OpeningImageWattjes5.jpg)
+
+# Prof. D. VandePitte Berekening van constructies 
 ![Image](OpeningImagePitte.jpg)
 
 # GBV1950

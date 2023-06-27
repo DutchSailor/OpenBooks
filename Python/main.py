@@ -6,8 +6,8 @@ from os import path
 def find_ext(dr, ext):
     return glob(path.join(dr,"*.{}".format(ext)))
 
-folder = 'C:/Users/mikev/Documents/GitHub/OpenBooks/Paneeldeuren/'
-Prefix = "Paneeldeuren-"
+folder = 'C:/Users/mikev/Documents/GitHub/OpenBooks/Prof. E.H. Gugel Architectonische Vormenleer 1880 beschrijving/'
+Prefix = "E. Gugel Vormenleer beschrijving-"
 path2 = folder + Prefix
 
 pdffiles = find_ext(folder,'pdf')

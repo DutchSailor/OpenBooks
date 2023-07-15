@@ -66,7 +66,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 ![Image](OpeningImagePitte.jpg)
 
 # Arch. L. Zwiers Handboek Houtconstructies
-![Image](OpeningImageZwiers.jpg)
+![Image](OpeningImageZwiers.png)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

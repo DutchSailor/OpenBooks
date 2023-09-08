@@ -26,7 +26,8 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
-(Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
+* (Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
+* [Arch. L. Zwiers](https://nl.wikipedia.org/wiki/Lambertus_Zwiers) Handboek Houtconstructies (via Arco van Wensen, Krijgsman Bouw)
 * GBV 1950 Gewapend Beton Voorschriften
 * Paneeldeuren, auteur onbekend.
 
@@ -63,6 +64,9 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 
 # Prof. D. VandePitte Berekening van constructies 
 ![Image](OpeningImagePitte.jpg)
+
+# Arch. L. Zwiers Handboek Houtconstructies
+![Image](OpeningImageZwiers.png)
 
 # GBV1950
 ![Image](OpeningImage3.JPG)

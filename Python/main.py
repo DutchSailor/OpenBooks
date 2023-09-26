@@ -6,8 +6,9 @@ from os import path
 def find_ext(dr, ext):
     return glob(path.join(dr,"*.{}".format(ext)))
 
-folder = 'C:/Users/mikev/Documents/GitHub/OpenBooks/Prof. E.H. Gugel Architectonische Vormenleer 1880 beschrijving/'
-Prefix = "E. Gugel Vormenleer beschrijving-"
+folder = "C:/Users/mikev/Documents/GitHub/OpenBooks/Prof. J.G. Wattjes Deel 7 Gewelven van steen, hout, gewapend-beton en glas/"
+#"C:/Users/mikev/3BM Dropbox/Maarten Vroegindeweij/Domera/10_PR_bureau_standaardisatie/50_brochure/Brochure 7 Bouwnummers/"
+Prefix = "Prof. J.G. Wattjes Deel 7 Gewelven van steen, hout, gewapend-beton en glas"
 path2 = folder + Prefix
 
 pdffiles = find_ext(folder,'pdf')
@@ -24,5 +25,11 @@ for j in pdffiles:
     doc = fitz.open(j)  # open document
     for page in doc:  # iterate through the pages
         pix = page.get_pixmap(matrix=mat)  # render page to an image
-        pix.save(path2 + str(i) + '.png')  # store image as a PNG
+        if i<10:
+            istr = "00" + str(i)
+        elif i<100:
+            istr = "0" + str(i)
+        else:
+            istr = str(i)
+        pix.save(path2 + istr + '.png')  # store image as a PNG
         i = i + 1

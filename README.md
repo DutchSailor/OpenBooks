@@ -58,13 +58,13 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 ![Image](OpeningImageWattjes3.JPG)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 4 Ramen Deuren Kozijnen
-![Image](OpeningImageWattjes4.jpg)
+![Image](OpeningImageWattjes4.JPG)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 5 Binnen en buitenbetimmeringen leidingen
-![Image](OpeningImageWattjes5.jpg)
+![Image](OpeningImageWattjes5.JPG)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 7 Gewelven van steen, hout, gewapend-beton en glas
-![Image](OpeningImageWattjes7.jpg)
+![Image](OpeningImageWattjes7.JPG)
 
 # Prof. D. VandePitte Berekening van constructies 
 ![Image](OpeningImagePitte.jpg)

@@ -65,10 +65,10 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 ![Image](OpeningImageWattjes5.jpg)
 
 # Prof. J.G. Wattjes Constructies van Gebouwen Deel 7 Gewelven van steen, hout, gewapend-beton en glas
-![Image](OpeningImageWattjes7.JPG)
+![Image](OpeningImageWattjes7.jpg)
 
 # Constructies van Gebouwen Deel 8 Trappen van hout, ijzer, steen en gewapend beton roltrappen liften
-![Image](OpeningImageWattjes8.JPG)
+![Image](OpeningImageWattjes8.jpg)
 
 # Prof. D. VandePitte Berekening van constructies 
 ![Image](OpeningImagePitte.jpg)

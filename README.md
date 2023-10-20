@@ -28,6 +28,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
+* Ir A.P. Potma en Ir J.E. de Vries Staalconstructies, theorie, berekening en uitvoering
 * (Deze is in het verleden gedownload van de website: www.berekeningvanconstructies.be die helaas niet meer bestaat)
 * [Arch. L. Zwiers](https://nl.wikipedia.org/wiki/Lambertus_Zwiers) Handboek Houtconstructies (via Arco van Wensen, Krijgsman Bouw)
 * GBV 1950 Gewapend Beton Voorschriften

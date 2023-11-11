@@ -25,6 +25,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 5 Binnen en buitenbetimmeringen leidingen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 7 Gewelven van steen, hout, gewapend-beton en glas
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 8 Trappen van hout, ijzer, steen en gewapend beton roltrappen liften
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 9 Eenvoudige dakconstructies en dakbedekkingen
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel I
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel II
 * [Prof. D. Vandepitte](https://nl.wikipedia.org/wiki/Dani%C3%ABl_Vandepitte) Berekening van constructies Deel III
@@ -70,6 +71,9 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 
 # Constructies van Gebouwen Deel 8 Trappen van hout, ijzer, steen en gewapend beton roltrappen liften
 ![Image](OpeningImageWattjes8.jpg)
+
+# Constructies van Gebouwen Deel 9 Eenvoudige dakconstructies en dakbedekkingen
+![Image](OpeningImageWattjes9.jpg)
 
 # Prof. D. VandePitte Berekening van constructies 
 ![Image](OpeningImagePitte.jpg)

@@ -23,6 +23,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 3 Funderingen en Kelders Rioleeringen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 4 Ramen Deuren Kozijnen
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 5 Binnen en buitenbetimmeringen leidingen
+* [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 6 Vloeren, binten, kolommen, plafonds en skeletbouw
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 7 Gewelven van steen, hout, gewapend-beton en glas
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 8 Trappen van hout, ijzer, steen en gewapend beton roltrappen liften
 * [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes) Constructies van Gebouwen Deel 9 Eenvoudige dakconstructies en dakbedekkingen

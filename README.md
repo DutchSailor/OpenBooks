@@ -36,6 +36,7 @@ Er komt in de toekomst een fatsoenlijke website waarbij de scans doorzoekbaar zi
 * [Arch. L. Zwiers](https://nl.wikipedia.org/wiki/Lambertus_Zwiers) Handboek Houtconstructies (via Arco van Wensen, Krijgsman Bouw)
 * GBV 1950 Gewapend Beton Voorschriften
 * Paneeldeuren, auteur onbekend.
+* F.H. Mijling Moderne houten trappen deel 1
 
 # Toekomstige collectie
 * Overige boeken van [Prof. J.G. Wattjes](https://nl.wikipedia.org/wiki/J.G._Wattjes).
